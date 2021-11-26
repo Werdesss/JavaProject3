@@ -2,7 +2,7 @@ package core;
 import javax.swing.*;
 
 /**
- * @author Yusuf Mert Köseoğlu 2152072
+ * @author Yusuf Mert Köseoğlu
  * @since 3.1.2021
  */
 
